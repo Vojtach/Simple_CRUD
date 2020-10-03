@@ -1,0 +1,13 @@
+D:\csharp\MyProject\MyCRUD\bin\Debug\netcoreapp3.1\MyCRUD.exe
+D:\csharp\MyProject\MyCRUD\bin\Debug\netcoreapp3.1\MyCRUD.deps.json
+D:\csharp\MyProject\MyCRUD\bin\Debug\netcoreapp3.1\MyCRUD.runtimeconfig.json
+D:\csharp\MyProject\MyCRUD\bin\Debug\netcoreapp3.1\MyCRUD.runtimeconfig.dev.json
+D:\csharp\MyProject\MyCRUD\bin\Debug\netcoreapp3.1\MyCRUD.dll
+D:\csharp\MyProject\MyCRUD\bin\Debug\netcoreapp3.1\MyCRUD.pdb
+D:\csharp\MyProject\MyCRUD\obj\Debug\netcoreapp3.1\MyCRUD.csprojAssemblyReference.cache
+D:\csharp\MyProject\MyCRUD\obj\Debug\netcoreapp3.1\MyCRUD.AssemblyInfoInputs.cache
+D:\csharp\MyProject\MyCRUD\obj\Debug\netcoreapp3.1\MyCRUD.AssemblyInfo.cs
+D:\csharp\MyProject\MyCRUD\obj\Debug\netcoreapp3.1\MyCRUD.csproj.CoreCompileInputs.cache
+D:\csharp\MyProject\MyCRUD\obj\Debug\netcoreapp3.1\MyCRUD.dll
+D:\csharp\MyProject\MyCRUD\obj\Debug\netcoreapp3.1\MyCRUD.pdb
+D:\csharp\MyProject\MyCRUD\obj\Debug\netcoreapp3.1\MyCRUD.genruntimeconfig.cache
